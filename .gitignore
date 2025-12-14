@@ -1,0 +1,42 @@
+# --------------------
+# Python
+# --------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# --------------------
+# Virtual Environment
+# --------------------
+venv/
+.env/
+.env.local
+
+# --------------------
+# OS / Editor
+# --------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# --------------------
+# Data & Embeddings
+# --------------------
+data/embeddings/
+data/feedback/*.jsonl
+
+# --------------------
+# Model / Cache
+# --------------------
+*.bin
+*.pt
+*.pth
+*.ckpt
+
+# --------------------
+# Ollama / LangChain Cache
+# --------------------
+.cache/

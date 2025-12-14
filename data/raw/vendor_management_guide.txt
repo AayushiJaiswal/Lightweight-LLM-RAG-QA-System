@@ -1,0 +1,4 @@
+VENDOR MANAGEMENT PROCEDURES
+1. Add new vendor
+2. Assign category
+3. Upload documents
