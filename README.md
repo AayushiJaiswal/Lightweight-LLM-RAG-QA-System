@@ -341,6 +341,8 @@ class Config:
 ### 🔹 Feedback & Rating System
 ![Feedback](images/feedback.png)
 
+📄 **Design Document**: [DESIGN.md](DESIGN.md)
+
 
 ## 🔮 Future Enhancements
 
