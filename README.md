@@ -400,6 +400,9 @@ class Config:
 ### 🔹 Feedback & Rating System
 ![Feedback](images/feedback.png)
 
+### Testing
+![Testing] (images/testing.png)
+
 📄 **Design Document**: [DESIGN.md](DESIGN.md)
 
 
