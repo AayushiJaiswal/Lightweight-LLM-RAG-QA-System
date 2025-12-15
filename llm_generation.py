@@ -1,8 +1,3 @@
-"""
-LLM Generation Module with Ollama
-Using LangChain for RAG pipeline orchestration
-"""
-
 from typing import Dict
 from langchain_community.llms import Ollama
 from langchain_core.prompts import PromptTemplate
