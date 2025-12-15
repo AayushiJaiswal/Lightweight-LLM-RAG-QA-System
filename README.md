@@ -401,7 +401,7 @@ class Config:
 ![Feedback](images/feedback.png)
 
 ### Testing
-![Testing] (images/testing.png)
+![Testing](images/testing.png)
 
 📄 **Design Document**: [DESIGN.md](DESIGN.md)
 
